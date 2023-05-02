@@ -8,9 +8,6 @@ class Solution:
                 continue
             return False
         return True
-                    
-
-
 
 
 ret = Solution()
