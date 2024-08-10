@@ -8,9 +8,7 @@ class Solution:
                 k = k - len(nums)
             else:
                 break
-
         nums[:] = nums[-k:] + nums[:-k]
-        return nums
 
 
 def main():
