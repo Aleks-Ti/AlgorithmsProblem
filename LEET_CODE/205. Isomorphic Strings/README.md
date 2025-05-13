@@ -1,4 +1,4 @@
-# Length of Last Word
+# Isomorphic Strings
 
 """[problem link](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150)"""
 
